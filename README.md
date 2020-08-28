@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><img src="https://github.com/yheip/yheip/blob/master/partyparrot.gif?raw=true" /></p>
 
 <!--
 **yheip/yheip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
